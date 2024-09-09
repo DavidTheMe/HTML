@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+
+}
+
+p{
+    font-size: 18px;
+}
+
+.TestClass{
+    color: #ff0000;
+    font-size: 32px;
+}
+
+#textParagrafSmall{
+    background-color: rgb(255, 230, 0);
+}
